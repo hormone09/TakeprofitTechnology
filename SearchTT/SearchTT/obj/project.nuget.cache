@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxY1A7lXSHnAdxlOxYaOMqbe0Ff6h9QvH5KhOfJGQr836AHHMNd3OXi0pQtd9f7M8Gp8PZcQwnKiIlcYxnr/4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Владимир\\Desktop\\Code\\C#\\ТЗ\\Takeprofit Technology\\SearchTT\\SearchTT\\SearchTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Владимир\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Владимир\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

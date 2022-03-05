@@ -1,0 +1,18 @@
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..exe
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..deps.json
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..runtimeconfig.json
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..runtimeconfig.dev.json
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..pdb
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..pdb
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..genruntimeconfig.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Takeprofit Technology\TT, Korobov V.A., Junior C Sharp\TT, Korobov V.A., Junior C Sharp\obj\Debug\netcoreapp3.1\TT, Korobov V.A., Junior C Sharp..csproj.CopyComplete

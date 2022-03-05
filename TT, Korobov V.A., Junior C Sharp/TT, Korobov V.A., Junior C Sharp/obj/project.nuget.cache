@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zH5hkeChOawcjcVo2L5j40Jx9W11NYjk+JpucVSp9nIpsu86Mdcetv71oRNZ1kJCNnvfI16rIUKdNeV6F/1rHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Владимир\\Desktop\\Code\\C#\\ТЗ\\Takeprofit Technology\\TT, Korobov V.A., Junior C Sharp\\TT, Korobov V.A., Junior C Sharp\\TT, Korobov V.A., Junior C Sharp..csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Владимир\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Владимир\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
